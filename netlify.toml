@@ -1,0 +1,10 @@
+[build]
+  base = "App"
+  publish = "App/dist"
+  command = "cd App && npm install && npm run build"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
