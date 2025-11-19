@@ -29,7 +29,7 @@ function App() {
             <nav className="nav-links">
               <a href="#home">Home</a>
               <a href="#about">About</a>
-              <a href="https://restaurants.bakeit360.com/utilities/dr/XmUD8dViHIhL?r=267a487e-b65d-4f7e-965a-d7d44e3d5cf2&src=others" target="_blank" rel="noopener noreferrer">Menu</a>
+              <a href="#menu">Menu</a>
               <a href="#gallery">Gallery</a>
               <a href="#contact">Contact</a>
             </nav>
@@ -47,7 +47,7 @@ function App() {
               Experience the finest flavors crafted with passion and tradition
             </p>
             <div className="hero-buttons">
-              <a href="https://restaurants.bakeit360.com/utilities/dr/XmUD8dViHIhL?r=267a487e-b65d-4f7e-965a-d7d44e3d5cf2&src=others" target="_blank" rel="noopener noreferrer" className="cta-button primary">View Menu</a>
+              <a href="#menu" className="cta-button primary">View Menu</a>
             </div>
           </div>
         </div>
@@ -274,7 +274,7 @@ function App() {
               <h3>Quick Links</h3>
               <a href="#home">Home</a>
               <a href="#about">About</a>
-              <a href="https://restaurants.bakeit360.com/utilities/dr/XmUD8dViHIhL?r=267a487e-b65d-4f7e-965a-d7d44e3d5cf2&src=others" target="_blank" rel="noopener noreferrer">Menu</a>
+              <a href="#menu">Menu</a>
               <a href="#contact">Contact</a>
             </div>
             <div className="footer-section">
